@@ -1,12 +1,3 @@
----
-title: "Reproducible Research: Peer Assessment 1"
-output: 
-  html_document:
-    keep_md: true
----
-
-
-
 ## Loading and preprocessing the data
 
 We unzip the *activity.zip* file into the current directory to extract the *activity.csv* file.  
